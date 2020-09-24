@@ -1,0 +1,13 @@
+C:\Bootcamp\mimmit\DotNet\OlioOhjelmointi2\bin\Debug\netcoreapp3.1\OlioOhjelmointi2.exe
+C:\Bootcamp\mimmit\DotNet\OlioOhjelmointi2\bin\Debug\netcoreapp3.1\OlioOhjelmointi2.deps.json
+C:\Bootcamp\mimmit\DotNet\OlioOhjelmointi2\bin\Debug\netcoreapp3.1\OlioOhjelmointi2.runtimeconfig.json
+C:\Bootcamp\mimmit\DotNet\OlioOhjelmointi2\bin\Debug\netcoreapp3.1\OlioOhjelmointi2.runtimeconfig.dev.json
+C:\Bootcamp\mimmit\DotNet\OlioOhjelmointi2\bin\Debug\netcoreapp3.1\OlioOhjelmointi2.dll
+C:\Bootcamp\mimmit\DotNet\OlioOhjelmointi2\bin\Debug\netcoreapp3.1\OlioOhjelmointi2.pdb
+C:\Bootcamp\mimmit\DotNet\OlioOhjelmointi2\obj\Debug\netcoreapp3.1\OlioOhjelmointi2.csprojAssemblyReference.cache
+C:\Bootcamp\mimmit\DotNet\OlioOhjelmointi2\obj\Debug\netcoreapp3.1\OlioOhjelmointi2.AssemblyInfoInputs.cache
+C:\Bootcamp\mimmit\DotNet\OlioOhjelmointi2\obj\Debug\netcoreapp3.1\OlioOhjelmointi2.AssemblyInfo.cs
+C:\Bootcamp\mimmit\DotNet\OlioOhjelmointi2\obj\Debug\netcoreapp3.1\OlioOhjelmointi2.csproj.CoreCompileInputs.cache
+C:\Bootcamp\mimmit\DotNet\OlioOhjelmointi2\obj\Debug\netcoreapp3.1\OlioOhjelmointi2.dll
+C:\Bootcamp\mimmit\DotNet\OlioOhjelmointi2\obj\Debug\netcoreapp3.1\OlioOhjelmointi2.pdb
+C:\Bootcamp\mimmit\DotNet\OlioOhjelmointi2\obj\Debug\netcoreapp3.1\OlioOhjelmointi2.genruntimeconfig.cache
